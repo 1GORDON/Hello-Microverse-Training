@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/1GORDON/Hello-Microverse-Training/issues"
   },
-  "homepage": "https://github.com/1GORDON/Hello-Microverse-Training#readme"
+  "homepage": "https://github.com/1GORDON/Hello-Microverse-Training#readme",
+  "devDependencies": {
+    "hint": "^6.2.0"
+  }
 }
