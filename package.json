@@ -1,0 +1,27 @@
+{
+  "name": "hello-microverse-training",
+  "version": "1.0.0",
+  "description": "This is the first training project for the code reviewer role.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1GORDON/Hello-Microverse-Training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1GORDON/Hello-Microverse-Training/issues"
+  },
+  "homepage": "https://github.com/1GORDON/Hello-Microverse-Training#readme",
+  "devDependencies": {
+    "hint": "^6.2.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
